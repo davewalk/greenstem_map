@@ -16,6 +16,8 @@ Code and data for the map at [greenstemnetwork.org](http://greenstemnetwork.org/
 - Images:  
     - City background image from [subtlepatterns.com](http://subtlepatterns.com)
     - Marker from [Maki](https://www.mapbox.com/maki/) by MapBox
+- Colors:  
+    - [colourco.de](http://colourco.de) was a huge help
 
 ### Geocoding
 
