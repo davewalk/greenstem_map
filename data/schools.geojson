@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.177392, 
+          39.952272
+        ]
+      }, 
+      "type": "Feature", 
+      "id": null, 
+      "properties": {
+        "name": "Greenfield Elementary School", 
+        "address": "2200 Chestnut St "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.15362689999999, 
+          39.9363977
+        ]
+      }, 
+      "type": "Feature", 
+      "id": null, 
+      "properties": {
+        "name": "Nebinger Elementary School", 
+        "address": "601 Carpenter Street"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.1834398, 
+          39.965863
+        ]
+      }, 
+      "type": "Feature", 
+      "id": null, 
+      "properties": {
+        "name": "Fairmount Water Works Interpretive Center", 
+        "address": "640 Waterworks Dr"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.24190039999999, 
+          39.9860287
+        ]
+      }, 
+      "type": "Feature", 
+      "id": null, 
+      "properties": {
+        "name": "Science Leadership Academy Beeber Campus", 
+        "address": "5925 Malvern Ave"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.24441039999999, 
+          39.9836696
+        ]
+      }, 
+      "type": "Feature", 
+      "id": null, 
+      "properties": {
+        "name": "Overbrook Environmental Education Center", 
+        "address": "6134 Lancaster Ave"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.1863785, 
+          39.92650039999999
+        ]
+      }, 
+      "type": "Feature", 
+      "id": null, 
+      "properties": {
+        "name": "Vare Middle School ", 
+        "address": "2100 South 24th St "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -75.1981582, 
+          39.9342405
+        ]
+      }, 
+      "type": "Feature", 
+      "id": null, 
+      "properties": {
+        "name": "Audenried Middle School", 
+        "address": "3301 Tasker St"
+      }
+    }
+  ]
+}

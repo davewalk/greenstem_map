@@ -1,0 +1,135 @@
+{
+  "bounds": [
+    -75.2866,
+    39.8691,
+    -74.9488,
+    40.141
+  ],
+  "center": [
+    -75.1616,
+    39.9634,
+    11
+  ],
+  "format": "png",
+  "interactivity": {
+    "layer": "",
+    "fields": []
+  },
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "polygon",
+      "extent": [
+        -75.28416747433553,
+        39.86859314848045,
+        -74.95403894002759,
+        40.13646188201978
+      ],
+      "id": "limits",
+      "class": "",
+      "Datasource": {
+        "file": "layers/phila-city_limits_shp.zip"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "limits"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -75.28367877431614,
+        39.87424970169414,
+        -74.95865387670949,
+        40.131913196608025
+      ],
+      "id": "parks",
+      "class": "",
+      "Datasource": {
+        "file": "/home/dw/projects/hello/data/parks.geojson",
+        "id": "parks",
+        "project": "greenstem_map",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "parks"
+    },
+    {
+      "geometry": "polygon",
+      "extent": [
+        -75.93317327337405,
+        38.76670210513301,
+        -74.71870586578999,
+        40.380819732763825
+      ],
+      "id": "hydrology",
+      "class": "",
+      "Datasource": {
+        "file": "/home/dw/projects/hello/data/hydrology.geojson",
+        "id": "hydrology",
+        "project": "greenstem_map",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "hydrology"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -75.2847311665797,
+        39.87532489486323,
+        -74.95571789200562,
+        40.13701434883321
+      ],
+      "id": "streets",
+      "class": "",
+      "Datasource": {
+        "file": "layers/PhiladelphiaStreetCenterlines201302.zip",
+        "id": "streets",
+        "project": "greenstem_map",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "streets"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -75.24441039999999,
+        39.926500399999995,
+        -75.15362689999999,
+        39.9860287
+      ],
+      "id": "schools",
+      "class": "",
+      "Datasource": {
+        "file": "data/schools.geojson",
+        "id": "schools",
+        "project": "greenstem_map",
+        "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
+      },
+      "srs-name": "WGS84",
+      "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
+      "advanced": {},
+      "name": "schools"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "greenSTEM Map",
+  "description": "Map of sensors for the greenSTEM Network website",
+  "legend": "",
+  "attribution": "",
+  "version": "1.0.0"
+}
