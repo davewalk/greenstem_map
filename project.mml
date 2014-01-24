@@ -51,7 +51,7 @@
       "id": "parks",
       "class": "",
       "Datasource": {
-        "file": "/home/dw/projects/hello/data/parks.geojson",
+        "file": "layers/parks.geojson",
         "id": "parks",
         "project": "greenstem_map",
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
@@ -72,7 +72,7 @@
       "id": "hydrology",
       "class": "",
       "Datasource": {
-        "file": "/home/dw/projects/hello/data/hydrology.geojson",
+        "file": "layers/hydrology.geojson",
         "id": "hydrology",
         "project": "greenstem_map",
         "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"
